@@ -1,0 +1,1 @@
+int isPrimeNumber(int numberToFind);
